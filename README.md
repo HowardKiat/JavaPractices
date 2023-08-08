@@ -1,2 +1,2 @@
 # HowardKiat
-Java Projects
+Java Class Activities
