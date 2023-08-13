@@ -17,6 +17,7 @@ public class Week3QuickReview {
         }else{
             System.out.println("Ticket Price: " + Adult);
         }
+        sc.close();
         
         }
 }

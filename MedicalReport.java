@@ -31,11 +31,12 @@ public class MedicalReport {
             else 
                 System.out.println(" This is not considered high.");
             }
+            sc.close();
         }
 
         }    
 
-
+        
 
         }
 
